@@ -1,0 +1,22 @@
+# Build artifacts
+bin/*
+!bin/.gitkeep
+*.o
+*.obj
+*.out
+*.exe
+
+# Dependency and coverage artifacts
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+.codex
