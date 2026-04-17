@@ -6,7 +6,7 @@
 
 ## Exercises
 
-- [ ] `1-01` - Run the "hello, world" program on your system. Experiment with leaving out parts of the program to see what error messages you get.
+- [x] `1-01` - Run the "hello, world" program on your system. Experiment with leaving out parts of the program to see what error messages you get.
 - [ ] `1-02` - Experiment to find out what happens when `printf`'s argument string contains `\c`, where `c` is some character not listed above.
 - [ ] `1-03` - Modify the temperature conversion program to print a heading above the table.
 - [ ] `1-04` - Write a program to print the corresponding Celsius to Fahrenheit table.
