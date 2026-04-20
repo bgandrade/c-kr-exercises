@@ -10,7 +10,7 @@
 - [x] `1-02` - Experiment to find out what happens when `printf`'s argument string contains `\c`, where `c` is some character not listed above.
 - [x] `1-03` - Modify the temperature conversion program to print a heading above the table.
 - [x] `1-04` - Write a program to print the corresponding Celsius to Fahrenheit table.
-- [ ] `1-05` - Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
+- [x] `1-05` - Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
 - [ ] `1-06` - Verify that the expression `getchar() != EOF` is `0` or `1`.
 - [ ] `1-07` - Write a program to print the value of `EOF`.
 - [ ] `1-08` - Write a program to count blanks, tabs, and newlines.
