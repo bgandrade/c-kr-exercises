@@ -13,7 +13,7 @@
 - [x] `1-05` - Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
 - [x] `1-06` - Verify that the expression `getchar() != EOF` is `0` or `1`.
 - [x] `1-07` - Write a program to print the value of `EOF`.
-- [ ] `1-08` - Write a program to count blanks, tabs, and newlines.
+- [x] `1-08` - Write a program to count blanks, tabs, and newlines.
 - [ ] `1-09` - Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank.
 - [ ] `1-10` - Write a program to copy its input to its output, replacing each tab by `\t`, each backspace by `\b`, and each backslash by `\\`. This makes tabs and backspaces visible in an unambiguous way.
 - [ ] `1-11` - How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any?
