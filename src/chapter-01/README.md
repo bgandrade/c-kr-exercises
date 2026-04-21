@@ -11,7 +11,7 @@
 - [x] `1-03` - Modify the temperature conversion program to print a heading above the table.
 - [x] `1-04` - Write a program to print the corresponding Celsius to Fahrenheit table.
 - [x] `1-05` - Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
-- [ ] `1-06` - Verify that the expression `getchar() != EOF` is `0` or `1`.
+- [x] `1-06` - Verify that the expression `getchar() != EOF` is `0` or `1`.
 - [ ] `1-07` - Write a program to print the value of `EOF`.
 - [ ] `1-08` - Write a program to count blanks, tabs, and newlines.
 - [ ] `1-09` - Write a program to copy its input to its output, replacing each string of one or more blanks by a single blank.
