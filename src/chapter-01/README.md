@@ -19,7 +19,7 @@
 - [x] `1-11` - How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any?
 - [x] `1-12` - Write a program that prints its input one word per line.
 - [x] `1-13` - Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging.
-- [ ] `1-14` - Write a program to print a histogram of the frequencies of different characters in its input.
+- [x] `1-14` - Write a program to print a histogram of the frequencies of different characters in its input.
 - [ ] `1-15` - Rewrite the temperature conversion program of Section 1.2 to use a function for conversion.
 - [ ] `1-16` - Revise the main routine of the longest-line program so it correctly prints the length of arbitrary long input lines, and as much as possible of the text.
 - [ ] `1-17` - Write a program to print all input lines that are longer than 80 characters.
