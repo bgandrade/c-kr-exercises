@@ -13,7 +13,7 @@ This repository contains my solutions to the exercises from *The C Programming L
 
 ## Progress
 
-- [ ] [Chapter 01 - A Tutorial Introduction](src/chapter-01/README.md)
+- [x] [Chapter 01 - A Tutorial Introduction](src/chapter-01/README.md)
 - [ ] [Chapter 02 - Types, Operators, and Expressions](src/chapter-02/README.md)
 - [ ] [Chapter 03 - Control Flow](src/chapter-03/README.md)
 - [ ] [Chapter 04 - Functions and Program Structure](src/chapter-04/README.md)

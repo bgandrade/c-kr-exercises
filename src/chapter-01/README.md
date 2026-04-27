@@ -29,7 +29,7 @@
 - [x] `1-21` - Write a program `entab` that replaces strings of blanks by the minimum number of tabs and blanks to achieve the same spacing. Use the same tab stops as for `detab`. When either a tab or a single blank would suffice to reach a tab stop, which should be given preference?
 - [x] `1-22` - Write a program to "fold" long input lines into two or more shorter lines after the last non-blank character that occurs before the `n`th column of input. Make sure your program does something intelligent with very long lines, and if there are no blanks or tabs before the specified column.
 - [x] `1-23` - Write a program to remove all comments from a C program. Do not forget to handle quoted strings and character constants properly. C comments do not nest.
-- [ ] `1-24` - Write a program to check a C program for rudimentary syntax errors like unbalanced parentheses, brackets, and braces. Do not forget about quotes, both single and double, escape sequences, and comments.
+- [x] `1-24` - Write a program to check a C program for rudimentary syntax errors like unbalanced parentheses, brackets, and braces. Do not forget about quotes, both single and double, escape sequences, and comments.
 
 ## Notes
 
